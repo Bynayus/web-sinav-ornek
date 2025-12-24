@@ -1,0 +1,28 @@
+#kutu1{
+    background:#90F;
+    width:200px;
+    height:400px;
+    float:left;
+  }
+  
+  #kutu2{
+    background:#F3F;
+    width:400px;
+    height:400px;
+    float:left;
+  }
+  
+  #kutu3{
+    background:#FF6;
+    width:200px;
+    height:400px;
+    float:left;
+  }
+  
+  #kutu4{
+    background:#0F0;
+    width:800px;
+    height:100px;
+    clear:both; 
+  }
+  
